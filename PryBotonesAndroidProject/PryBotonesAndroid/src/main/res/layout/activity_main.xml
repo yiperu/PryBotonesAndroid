@@ -21,21 +21,21 @@
             android:layout_height="wrap_content"
             android:textSize="45dp"
             android:text="@string/titulo_tv"
-            android:id="@+id/textView2"
+            android:id="@+id/id_tv1"
             android:layout_gravity="center" />
 
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:text="@string/titulo_b1"
-            android:id="@+id/button"
+            android:id="@+id/id_btn1"
             android:layout_gravity="center" />
 
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:text="@string/titulo_b2"
-            android:id="@+id/button2" />
+            android:id="@+id/id_btn2" />
     </LinearLayout>
 
 </RelativeLayout>
